@@ -1,0 +1,11 @@
+.bundle
+node_modules
+__tests__
+
+android/.gradle
+android/.idea
+android/app/build
+android/build
+
+ios
+
